@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.0 | 2015-06-16
+* change views to copy instead of template
+
 ## v1.0.10 | 2015-06-16
 * Removes ghooks from deps, changes .editoconfig to editorconfig, change on copy
 
@@ -31,6 +34,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
