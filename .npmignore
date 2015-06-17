@@ -4,7 +4,6 @@ test/*
 .gitignore
 .jscsrc
 .travis.yml
-.git*
 .jshint*
 .npmignore
 .npmrc
