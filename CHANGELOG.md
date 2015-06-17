@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.7 | 2015-06-16
+* Adds local.js back, templated .gitignore file caused it to be ignored. Change index to rename it. Also adds the session template file
+
 ## v1.0.6 | 2015-06-16
 * changelog to md file
 
@@ -19,6 +22,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
