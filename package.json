@@ -1,6 +1,6 @@
 {
   "name": "sails-generate-seeds-backend",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate a Seeds backend in Sails.",
   "main": "lib/index.js",
   "scripts": {
