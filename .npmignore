@@ -17,3 +17,5 @@ npm-debug.log
 .eslintignore
 
 test/
+
+CHANGELOG
