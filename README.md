@@ -84,4 +84,4 @@ http://localhost:1776/
 
 You should see `Your Seeds have Sails!`
 
-[![](screenshot.png)]
+![](screenshot.png)
