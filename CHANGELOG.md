@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.8 | 2015-06-16
+* Moves local.js back, changes .gitignore to .gitkeep, rename on copy
+
 ## v1.0.7 | 2015-06-16
 * Adds local.js back, templated .gitignore file caused it to be ignored. Change index to rename it. Also adds the session template file
 
@@ -22,6 +25,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
