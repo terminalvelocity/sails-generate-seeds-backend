@@ -1,0 +1,7 @@
+{
+  "generators": {
+    "modules": {
+      "seeds": "/Users/jhliberty/workspace/Seeds.js-workspace/sails-generate-backend"
+    }
+  }
+}
