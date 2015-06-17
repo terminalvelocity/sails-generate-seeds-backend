@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.9 | 2015-06-16
+* modified .npmignore
+
 ## v1.0.8 | 2015-06-16
 * Moves local.js back, changes .gitignore to .gitkeep, rename on copy
 
@@ -25,6 +28,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
