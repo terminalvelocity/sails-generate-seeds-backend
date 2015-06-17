@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.10 | 2015-06-16
+* Removes ghooks from deps, changes .editoconfig to editorconfig, change on copy
+
 ## v1.0.9 | 2015-06-16
 * modified .npmignore
 
@@ -28,6 +31,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
