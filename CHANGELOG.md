@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.6 | 2015-06-16
+* changelog to md file
+
 ## v1.0.5 | 2015-06-16
  * remove .sailsrc
  * update npmignore
@@ -16,5 +19,6 @@
 
 ### 0.0.0
 Init
+
 
 
