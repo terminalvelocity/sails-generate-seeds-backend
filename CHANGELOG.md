@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.1 | 2015-06-18
+* updates .npmignore, removes dmn
+
 ## v1.1.0 | 2015-06-16
 * change views to copy instead of template
 
@@ -34,6 +37,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
