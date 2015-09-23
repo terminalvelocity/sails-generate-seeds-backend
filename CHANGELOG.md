@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.2 | 2015-09-23
+* Move port: 1776 to development env
+
 ## v1.1.1 | 2015-06-18
 * updates .npmignore, removes dmn
 
@@ -37,6 +40,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
