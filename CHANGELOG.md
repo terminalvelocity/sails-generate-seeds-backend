@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1.3 | 2016-03-07
+* Added CSRF Token to routes
+* Added CSRF token to routes
+
 ## v1.1.2 | 2015-09-23
 * Move port: 1776 to development env
 
@@ -40,6 +44,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
