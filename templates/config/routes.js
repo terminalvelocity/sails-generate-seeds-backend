@@ -51,9 +51,7 @@ module.exports.routes = {
   //(which will be initialized in assets/index.html). This route needs to be
   //at the very bottom if you want to server other routes through Sails, because they are matched in order
 
-  // '/*': { controller: 'App', action: 'serve', skipAssets: true, skipRegex: /^\/api\/.*$/ }    <----old version of csrf
   '/*': { controller: 'App', action: 'serve', skipAssets: true, skipRegex: /^\/(api\/.*|__getcookie|csrfToken)$/ }
-
 
   //You could also just serve the index view directly if you want
   //'/*': { view: 'index', skipAssets: true, skipRegex: /^\/api\/.*$/ }
