@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.5 | 2016-03-09
+* fix indentation
+
 ## v1.1.4 | 2016-03-09
 * add migrations generator to templates
 * Update sails templates to v12.1
@@ -48,6 +51,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
