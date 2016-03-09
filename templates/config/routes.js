@@ -49,7 +49,7 @@ module.exports.routes = {
 
   //This automatically serves all routes, apart from /api/** routes to ember
   //(which will be initialized in assets/index.html). This route needs to be
-  //at the very bottom if you want to server other routes through Sails, because they are matched in order
+  //at the very bottom if you want to serve other routes through Sails, because they are matched in order
 
   '/*': { controller: 'App', action: 'serve', skipAssets: true, skipRegex: /^\/(api\/.*|__getcookie|csrfToken)$/ }
 
