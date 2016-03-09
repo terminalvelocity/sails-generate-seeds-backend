@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1.4 | 2016-03-09
+* add migrations generator to templates
+* Update sails templates to v12.1
+
 ## v1.1.3 | 2016-03-07
 * Added CSRF Token to routes
 * Added CSRF token to routes
@@ -44,6 +48,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
