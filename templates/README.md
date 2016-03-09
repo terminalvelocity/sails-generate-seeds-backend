@@ -1,3 +1,3 @@
-# Seeds.js API Server
+# <%= appname %>
 
 A [Seeds.js](http://seedsjs.org) API server.
