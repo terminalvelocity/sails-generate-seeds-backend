@@ -8,7 +8,8 @@
   },
   "generators": {
     "modules": {
-      "seeds": "sails-generate-seeds-backend"
+      "seeds": "sails-generate-seeds-backend",
+      "model": "sails-generate-model-with-migrations"
     }
   }
 }
