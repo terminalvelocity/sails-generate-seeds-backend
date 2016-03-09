@@ -24,5 +24,5 @@ module.exports = function created (data, options) {
   res.status(201);
 
   // If appropriate, serve data as JSON(P)
-    return res.jsonx(data);
+  return res.jsonx(data);
 };
