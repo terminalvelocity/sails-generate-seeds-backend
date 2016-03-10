@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.6 | 2016-03-09
+* Adds sails-migrations package to deps.
+
 ## v1.1.5 | 2016-03-09
 * fix indentation
 
@@ -51,6 +54,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
