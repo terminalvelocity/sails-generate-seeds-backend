@@ -17,7 +17,7 @@
     "sails-generate-model-with-migrations": "^1.0.0",
     "sails-hook-apianalytics": "^0.3.0",
     "sails-hook-autoreload": "^0.13.1",
-    "sails-hook-dev": "^1.0.0",
+    "sails-hook-dev": "balderdashy/sails-hook-dev",
     "sails-migrations": "^2.0.8"
   },
   "scripts": {
