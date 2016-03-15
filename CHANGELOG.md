@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.7 | 2016-03-15
+* sails-hook-dev v1.0.0 on npm causing issues on linux systems, fixed by installing from balderdashy repo
+
 ## v1.1.6 | 2016-03-09
 * Adds sails-migrations package to deps.
 
@@ -54,6 +57,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
