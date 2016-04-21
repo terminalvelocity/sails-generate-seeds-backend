@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.8 | 2016-04-21
+* Removes sails-hook-dev from package.json due to github host
+
 ## v1.1.7 | 2016-03-15
 * sails-hook-dev v1.0.0 on npm causing issues on linux systems, fixed by installing from balderdashy repo
 
@@ -57,6 +60,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
